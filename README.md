@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Front-end UI design and development<br>🌱 I'm currently learning Vite + React.<br>👨🏿‍💻All of my projects are available at https://github.com/rujal404<br>📫 How to reach me rujal404@gmail.com
+🔭 I’m currently working on Front-end UI design and development<br>🌱 I'm currently learning Vite + React.<br>👨🏿‍💻All of my projects are available at https://github.com/rujal404<br>📫 How to reach me rujal404@gmail.com<br> About me https://rujaltamrakar.com.np
 
 
 ## 🌐 Socials:
